@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">AbuRahimah</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="mainActivity_title">Apá Kìíní</string>
+    <string name="intro_one">
+        <big>
+        صَحِيحُ الْبُخَارِيِّ وَتَرْجَمَتُهُ إِلَى لُغَةِ الْيُورُبَا
+        </big>
+    </string>
+
+    <string name="intro_two">
+        صاحب الترجمة: أبو رحيمة ميكائيل أيكوييني بن عبد الرحيم ماتنمي الإبادني
+    </string>
+
+    <string name="two_text">
+    Sọhīhul-Bukọ̄riy
+    Àti Ìtúmọ̀ Rẹ̀ Ní Èdè Yorùbá
+    Apá Kìíní
+    </string>
+
+    <string name="intro_three">
+        Oníṣẹ́-Ìtúmọ̀
+    </string>
+
+    <string name="intro_four">
+        Abu-Rahimah Mikail Ẹ̀kọ́yẹni ọmọ Abdurraheem Mọ́tànmí Ìbàdàn
+        Abu-Rahimah 1438AH
+        Abu-Rahimah 2017
+        08099370109/08076114896
+        </string>
+    <string name="intro_five">
+        Aburahimah Publications
+        E7/815B, Ayekale Area, Agugu, Ibadan.
+            Abu Rahimah 2017</string>
+
+    <string name="intro_six">
+            All rights of publication and distribution of this book is reserved to the author. Nobody should print or photocopy a part or whole of this book except with a written permission from the author, duly signed and stamped.
+        </string>
+    <string name="intro_seven">
+        Printed in Nigeria by Fola-Murphy Printer &amp; Co 08033826110
+    </string>
+    <string name="intro_eight">
+    ISBN
+    978-978-49525-1-2
+    </string>
+
+</resources>
